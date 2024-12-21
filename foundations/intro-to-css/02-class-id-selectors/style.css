@@ -1,0 +1,23 @@
+.odd_numbered{
+    background-color: #EF7A71;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#second_element {
+    color: blue;
+    font-size: 36px;
+
+}
+
+
+#third_element {
+    font-size: 24px;
+
+}
+
+#forth_element {
+    background-color: rgb(114, 241, 114);
+    font-size: 24px;
+    font-weight: bold;
+
+}
